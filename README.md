@@ -18,7 +18,7 @@ I design and build **AI-powered automation workflows** using:
 | #  | Project                          | Status           | Stack                                        | Link |
 |----|----------------------------------|------------------|----------------------------------------------|------|
 | 01 | AI Lead Analyzer CRM             | ✅ Complete       | n8n, Ollama, PostgreSQL, Google Sheets, Gmail | [View](https://github.com/armaankhantech/Ai-lead-crm-system) |
-| 02 | ARK AI Customer Support Assistant| 🔨 In Progress    | n8n, Ollama, PostgreSQL, Express, Node.js | [View](https://github.com/armaankhantech/ark-ai-customer-support-assistant) |
+| 02 | ARK AI Customer Support Assistant| ✅ Complete    | n8n, Ollama, PostgreSQL, Express, Node.js | [View](https://github.com/armaankhantech/ark-ai-customer-support-assistant) |
 | 03 | AI Content Automation System     | 📋 Planned        | n8n, Claude API                              | — |
 | 04 | Lead Generation Automation       | 📋 Planned        | n8n, REST APIs                               | — |
 | 05 | AI Business Operations Automation| 📋 Planned        | TBD                                          | — |
